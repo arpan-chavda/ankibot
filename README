@@ -1,0 +1,8 @@
+Personal Anki card generation bot
+=================================
+
+Delimiter : ":"
+
+Package dependency : pandoc,sed,wget
+
+Platform : Linux(default),Windows(via cygwin),Mac OSx
